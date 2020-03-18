@@ -1,8 +1,8 @@
 # Gradient Descent Optimizer
 
-###Group member: Ali Al-Bayaty ;albayaty@pdx.edu , Matthew Bui; buiman@pdx.edu, Sharanya Durgadasa; sdurga2@pdx.edu
+Group member: Ali Al-Bayaty ;albayaty@pdx.edu , Matthew Bui; buiman@pdx.edu, Sharanya Durgadasa; sdurga2@pdx.edu
 
-###Professor: Dr. Ted Willkes
+Professor: Dr. Ted Willkes
 
 Portland State University
 
